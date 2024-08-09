@@ -1,0 +1,8 @@
+[package]
+name = "rusty_gene"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+enum_dispatch = "0.3.13"
